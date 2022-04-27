@@ -15,6 +15,10 @@
 :email: You can contact me through my Portfolio Site Contact Form.  
 ## Stats 
 ![Iyanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=IyannaB623&bg_color=FF95AE,FF95AE,FFC895,C9EFB7,4BE4C9&title_color=fff&text_color=fff)
+
+## Socials
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=IyannaCreative)](https://github.com/IyannaB623/github-readme-twitter)
+
 <!--
 **IyannaB623/IyannaB623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
