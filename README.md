@@ -1,6 +1,9 @@
 # **Hello! My name is Iyanna, your Friendly Software Developer.**
 "Do everything with Love & Care" -Iyanna B.
 
+![myfile](Iyanna_Develops_GIF.GIF)
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend+Deca&size=24&color=FF95AE&vCenter=true&lines=Front-End+Developer;Where+Creative+Meets+Code;Always+Learning)](https://git.io/typing-svg)
 
 ## Portfolio Site
