@@ -2,7 +2,7 @@
 "Do everything with Love & Care" -Iyanna B.
 
 <p align="center" >
-![image]<img src="Iyanna_Develops_GIF.GIF" width="500" height="300">
+<img src="Iyanna_Develops_GIF.GIF" width="500" height="300">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend+Deca&size=24&color=FF95AE&vCenter=true&lines=Front-End+Developer;Where+Creative+Meets+Code;Always+Learning)](https://git.io/typing-svg)
