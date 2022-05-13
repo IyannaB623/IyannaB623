@@ -27,6 +27,9 @@
 ## Socials
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=IyannaCreative)](https://github.com/IyannaB623/github-readme-twitter)
 
+## Support
+<p><a href="https://www.buymeacoffee.com/Iyanna.Alani"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="180" alt="Iyanna.Alani" /></a></p><br><br>
+
 <!--
 **IyannaB623/IyannaB623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
