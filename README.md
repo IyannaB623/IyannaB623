@@ -1,3 +1,7 @@
+<p align="center" >
+<img src="Iyanna_Develops_GIF.GIF" width="500" height="300">
+</p>
+
 # **Hello! My name is Iyanna, your Friendly Software Developer.**
 "Do everything with Love & Care" -Iyanna B.
 
