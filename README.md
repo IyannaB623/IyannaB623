@@ -1,6 +1,4 @@
-<p align="center" >
-<img src="IyannaAlaniBanner.pdf" width="700" height="400">
-</p>
+![This is an image](bannerIyanna.png)
 
 # **Hello! My name is Iyanna, your Friendly Software Developer.**
 "Do everything with Love & Care" -Iyanna B.
