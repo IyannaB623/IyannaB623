@@ -1,5 +1,5 @@
 <p align="center" >
-<img src="Iyanna_Develops_GIF.GIF" width="500" height="300">
+<img src="IyannaAlaniBanner.pdf" width="500" height="300">
 </p>
 
 # **Hello! My name is Iyanna, your Friendly Software Developer.**
