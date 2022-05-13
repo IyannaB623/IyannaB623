@@ -19,8 +19,9 @@
 :handshake: Currently accepting inquiries on project collaborations & job opportunities.  
 :heartpulse: If Im not coding, I am spending time with family, writing screenplays, boxing, playing tennis, or trying new vegetarian foods!   
 :email: You can contact me through my Portfolio Site Contact Form.  
-## Stats 
-![Iyanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=IyannaB623&bg_color=FF95AE,FF95AE,FFC895,C9EFB7,4BE4C9&title_color=fff&text_color=fff)
+## Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IyannaB623&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=DDDDDD&stroke=C9EFB7&ring=FF95AE&fire=DD9757&currStreakNum=C9EFB7&sideNums=FF95AE&currStreakLabel=31DDBF&sideLabels=DDDDDD&dates=DDDDDD)](https://git.io/streak-stats)
+![Iyanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=IyannaB623&bg_color=000&title_color=31DDBF&text_color=FF95AE)
 
 ## Socials
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=IyannaCreative)](https://github.com/IyannaB623/github-readme-twitter)
