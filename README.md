@@ -1,16 +1,13 @@
 ![This is an image](bannerIyanna.png)
 
-# **Hello! My name is Iyanna, your Friendly Software Developer.**
-"Do everything with Love & Care" -Iyanna B.
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend+Deca&size=24&color=FF95AE&vCenter=true&lines=Front-End+Developer;Where+Creative+Meets+Code;Always+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&size=35&duration=4500&color=FF95AE&center=true&vCenter=true&width=1000&height=74&lines=Front-End+Developer;Creative+Director;Follower+of+Christ;Filmmaker;Somewhere+Drinking+Boba)](https://git.io/typing-svg)
 
 ## Portfolio Site
 :sparkles:[Iyanna Develops](https://IyannaDevelops.netlify.app)
 
-<p align="center" >
-<img src="Iyanna_Develops_GIF.GIF" width="500" height="300">
+<p align="left" >
+<img src="Iyanna_Develops_GIF.GIF" width="400" height="200">
 </p>
 
 
