@@ -17,7 +17,7 @@
 :seedling: I am currently learning Python and working on a project that uses React.  
 :art: I love incorporating my creative side into my projects.   
 :handshake: Currently accepting inquiries on project collaborations & job opportunities.  
-:heartpulse: If Im not coding, I am spending time with family, writing screenplays, boxing, playing tennis, or trying new vegetarian foods!   
+:heartpulse: If Im not coding, I am spending time with family & friends, training, exploring, trying new vegan foods, or watching movies!   
 :email: You can contact me through my Portfolio Site Contact Form.  
 <!-- ## Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IyannaB623&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=DDDDDD&stroke=C9EFB7&ring=FF95AE&fire=DD9757&currStreakNum=C9EFB7&sideNums=FF95AE&currStreakLabel=31DDBF&sideLabels=DDDDDD&dates=DDDDDD)](https://git.io/streak-stats)
