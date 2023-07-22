@@ -11,7 +11,7 @@
 
 
 ## Languages & Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Python](https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python)
 ## About Me
 :cherry_blossom: I am based in Southern California  
 :seedling: I am currently learning Python and working on a project that uses React.  
@@ -19,10 +19,10 @@
 :handshake: Currently accepting inquiries on project collaborations & job opportunities.  
 :heartpulse: If Im not coding, I am spending time with family, writing screenplays, boxing, playing tennis, or trying new vegetarian foods!   
 :email: You can contact me through my Portfolio Site Contact Form.  
-## Stats
+<!-- ## Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IyannaB623&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=DDDDDD&stroke=C9EFB7&ring=FF95AE&fire=DD9757&currStreakNum=C9EFB7&sideNums=FF95AE&currStreakLabel=31DDBF&sideLabels=DDDDDD&dates=DDDDDD)](https://git.io/streak-stats)
 ![Iyanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=IyannaB623&bg_color=000&title_color=31DDBF&text_color=FF95AE)
-
+-->
 ## Socials
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=IyannaCreative)](https://github.com/IyannaB623/github-readme-twitter)
 
