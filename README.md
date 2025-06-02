@@ -1,6 +1,6 @@
 ![This is an image](Banner-Linked-In.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=35&duration=4500&color=ffa1fe&center=true&vCenter=true&width=1000&height=74&lines=Front-End+Developer;Data+Analyst;Creative+Director;Follower+of+Christ;Filmmaker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=35&duration=4500&color=ffa1fe&center=true&vCenter=true&width=1000&height=74&lines=Developer;Data+Analyst;Creative+Director;Follower+of+Christ;Filmmaker)](https://git.io/typing-svg)
 
 
 ## Business & Portfolio Site
