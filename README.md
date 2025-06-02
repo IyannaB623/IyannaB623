@@ -1,4 +1,4 @@
-![This is an image](bannerIyanna.png)
+![This is an image](Banner-Linked-In.png
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=35&duration=4500&color=FF95AE&center=true&vCenter=true&width=1000&height=74&lines=Front-End+Developer;Creative+Director;Follower+of+Christ;Filmmaker)](https://git.io/typing-svg)
 
