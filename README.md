@@ -6,8 +6,7 @@
 ## Business & Portfolio Site
 :sparkles:[Alani Bay Studios](https://alanibaystudios)
 
-## First Evert Portfolio Site
-# Built from Scratch }
+## First Evert Portfolio Site (Built From Scratch)
 :sparkles:[Iyanna Develops](https://IyannaDevelops.netlify.app)
 
 <p align="left" >
