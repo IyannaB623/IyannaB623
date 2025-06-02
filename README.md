@@ -2,7 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=35&duration=4500&color=FF95AE&center=true&vCenter=true&width=1000&height=74&lines=Front-End+Developer;Creative+Director;Follower+of+Christ;Filmmaker)](https://git.io/typing-svg)
 
-## Portfolio Site
+
+## Business & Portfolio Site
+:sparkles:[Alani Bay Studios](https://alanibaystudios)
+
+## First Evert Portfolio Site
+# Built from Scratch }
 :sparkles:[Iyanna Develops](https://IyannaDevelops.netlify.app)
 
 <p align="left" >
@@ -14,10 +19,10 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Python](https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python)
 ## About Me
 :cherry_blossom: I am based in Southern California  
-:seedling: I am currently learning Python and working on a project that uses React.  
+:seedling: I am using my skills in data analytics to explore how social media impacts digital well-being, behavior, and connection..  
 :art: I love incorporating my creative side into my projects.   
-:handshake: Currently accepting inquiries on project collaborations & job opportunities.  
-:heartpulse: If Im not coding, I am spending time with family & friends, training, exploring, trying new vegan foods, or watching movies!   
+:handshake: Currently accepting inquiries on project collaborations & job opportunities. 
+:heartpulse: If Im not working on a project, I enjoy spending time with family and friends, building community, staying active, exploring new places, discovering vegan cuisine, and always finding something new to learn.   
 :email: You can contact me through my Portfolio Site Contact Form.  
 <!-- ## Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IyannaB623&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=DDDDDD&stroke=C9EFB7&ring=FF95AE&fire=DD9757&currStreakNum=C9EFB7&sideNums=FF95AE&currStreakLabel=31DDBF&sideLabels=DDDDDD&dates=DDDDDD)](https://git.io/streak-stats)
