@@ -18,7 +18,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Python](https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python)
 ## About Me
 :cherry_blossom: I am based in Southern California  
-:seedling: I am currently working on a projecgt that uses data analytics to explore how social media impacts digital well-being, behavior, and connection..  
+:seedling: I am currently working on a projecgt that uses data analytics to explore how social media impacts digital well-being, behavior, and connection.  
 :art: I love incorporating my creative side into my projects.   
 :handshake: Currently accepting inquiries on project collaborations & job opportunities. 
 :heartpulse: If Im not working on a project, I enjoy spending time with family and friends, building community, staying active, exploring new places, discovering vegan cuisine, and always finding something new to learn.   
