@@ -4,7 +4,7 @@
 
 
 ## Business & Portfolio Site
-:hibiscus:[Alani Bay Studios](https://alanibaystudios)
+:hibiscus:[Alani Bay Studios](https://alanibaystudios.com/)
 
 ## First Ever Portfolio Site (Built From Scratch)
 :sparkles:[Iyanna Develops](https://IyannaDevelops.netlify.app)
