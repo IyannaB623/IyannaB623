@@ -50,6 +50,12 @@ I'm a data-focused developer and creative problem-solver interested in data anal
 <!--## Socials
 ![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=IyannaCreative)](https://github.com/IyannaB623/github-readme-twitter)-->
 
+## Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFA1FE?style=for-the-badge&logo=googlechrome&logoColor=black)](YOUR-PORTFOLIO-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C77DFF?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/iyanna-blackburn)
+[![Email](https://img.shields.io/badge/Email-7F3FBF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iblackbu@marshall.usc.edu)
+
 ## Support
 <p><a href="https://www.buymeacoffee.com/Iyanna.Alani"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="180" alt="Iyanna.Alani"/></a></p><br><br>
 
