@@ -6,6 +6,15 @@
 
 I'm a data-focused developer and creative problem-solver interested in data analytics, web development, digital well-being, and thoughtful design.
 
+## About Me
+🌸 Based in Southern California  
+📊 I enjoy using data, technology, and design to turn ideas into meaningful projects.  
+🌱 Currently exploring how social media affects digital well-being, behavior, and human connection.  
+💻 Experienced with Python, SQL, Tableau, Power BI, HTML, CSS, and JavaScript.  
+🎨 I bring creativity and thoughtful design to every project I build.  
+🤝 Open to professional opportunities, collaborations, and new connections.  
+💌 Contact me through the form on my portfolio website.
+
 ## Business & Portfolio Site
 :hibiscus:[Alani Bay Studios](https://alanibaystudios.com/)
 
@@ -34,15 +43,6 @@ I'm a data-focused developer and creative problem-solver interested in data anal
 **Skills Hub**\
 [![Treehouse](https://img.shields.io/badge/Treehouse-5FCF80?logo=treehouse&logoColor=fff)](#)[![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff)](#)[![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)](#)
 
-
-## About Me
-🌸 Based in Southern California  
-📊 I enjoy using data, technology, and design to turn ideas into meaningful projects.  
-🌱 Currently exploring how social media affects digital well-being, behavior, and human connection.  
-💻 Experienced with Python, SQL, Tableau, Power BI, HTML, CSS, and JavaScript.  
-🎨 I bring creativity and thoughtful design to every project I build.  
-🤝 Open to professional opportunities, collaborations, and new connections.  
-💌 Contact me through the form on my portfolio website.
 <!-- ## Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IyannaB623&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=DDDDDD&stroke=C9EFB7&ring=FF95AE&fire=DD9757&currStreakNum=C9EFB7&sideNums=FF95AE&currStreakLabel=31DDBF&sideLabels=DDDDDD&dates=DDDDDD)](https://git.io/streak-stats)
 ![Iyanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=IyannaB623&bg_color=000&title_color=31DDBF&text_color=FF95AE)
