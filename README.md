@@ -1,4 +1,4 @@
-![This is an image](Banner-Linked-In.png)
+![This is an image](banner.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=35&duration=4500&color=FFA1FE&center=true&vCenter=true&width=1000&height=74&lines=Data+Analyst;Business+Analytics+Professional;Web+Developer;Creative+Strategist)](https://git.io/typing-svg)
 
